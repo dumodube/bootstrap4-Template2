@@ -1,0 +1,35 @@
+body{
+	
+}
+.form-control{
+	max-width: 200px;
+	max-height: 25px;
+}
+#home-section{
+	background:url(../img/home.jpeg) no-repeat;
+	min-height:700px;
+	background-size:cover;
+	background-attachment: fixed;
+}
+.dark-overlay{
+	background-color:rgba(0,0,0,0.7);
+	postition:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	min-height: 700px;
+}
+.home-inner{
+	padding-top: 300px;
+}
+#made{
+	color: #eee;
+}
+.dark-overlap{
+	background-color:rgba(0,0,0,0.7);
+	postition:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	min-height: 200px;
+}
